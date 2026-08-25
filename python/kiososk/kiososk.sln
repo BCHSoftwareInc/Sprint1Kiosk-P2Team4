@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kiososk", "kiososk\kiososk.pyproj", "{0F88540D-B95E-4EA5-BD42-52F3AEFE9D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F88540D-B95E-4EA5-BD42-52F3AEFE9D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F88540D-B95E-4EA5-BD42-52F3AEFE9D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF9ED1F-6A3D-43BB-89F8-84B05A245CE8}
+	EndGlobalSection
+EndGlobal
