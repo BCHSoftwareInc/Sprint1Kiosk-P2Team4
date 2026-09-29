@@ -19,7 +19,7 @@ Welcome to your team's official codebase for the current development cycle.
 ---
 
 ## 👥 Assigned Team Roster
-* **Product Manager (PM):** @NicholasC987
-* **Software Engineer (SE):** @mikiemouse349
-* **Cyber Compliance Analyst (CCA):** @CalebBroumley
-* **QA Tester (QA):** @Gabeisaspider45
+* **Product Manager (PM):** @Gabeisaspider45
+* **Software Engineer (SE):** @Calebbroumley
+* **Cyber Compliance Analyst (CCA):**@NicholasC987
+* **QA Tester (QA):** @NicholasC987
